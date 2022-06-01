@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <bug_report>
+    <ID>1</ID>
+  <Summary>Short description</Summary>
+  <Environment>Yor environment</Environment>
+  <Priority>Write hear</Priority>
+  <Steps>First step, etc</Steps>
+  <Expected_resul>Fill in data</Expected_resul>
+  <Actual_result>Fill in data</Actual_result>
+    </bug_report>
